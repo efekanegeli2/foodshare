@@ -185,6 +185,3 @@ FoodShareV6/
 
 ---
 
-## 📄 License
-
-Developed for **Ankara Bilim University** — Web Design course.
